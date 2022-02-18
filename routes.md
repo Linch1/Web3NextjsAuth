@@ -1,16 +1,15 @@
 ## API WORKLY
 
-#### Creazione profilo `/user/ [POST]` 
+####  `POST /user/`  [ Creazione profilo ] 
 
-##### BODY
-
-```
+```javascript
+// body of the request
 {
-    "nickname": string,
+    "nickname": string, // [REQUIRED]
     "description": string,
-    "skills": string[],
+    "skills": string[], // [REQUIRED]
     "image": string, // nft imported by user
-    "telegram": string, // telegram nick
+    "telegram": string, // telegram nick [REQUIRED]
     "discrod: string, // discord nick
     "certifications": [{
         "name": string,
