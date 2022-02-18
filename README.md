@@ -1,8 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Resources
-To know more about web3 authentication i sudjest you this article https://www.toptal.com/ethereum/one-click-login-flows-a-metamask-tutorial
-To connect the wallets i use [http://localhost:3000](https://github.com/NoahZinsmeister/web3-react)
+- To know more about web3 authentication i sudjest you this article https://www.toptal.com/ethereum/one-click-login-flows-a-metamask-tutorial
+- To connect the wallets i use [http://localhost:3000](https://github.com/NoahZinsmeister/web3-react)
 
 ## Getting Started
 
