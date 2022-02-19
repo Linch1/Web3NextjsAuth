@@ -20,7 +20,7 @@ yarn dev
 
 - Click the login button on the web app
 
-- Sign the note that appear throuh metamask popup
+- Sign the note that appear through metamask popup 
 
 - Now you are logged in
 
